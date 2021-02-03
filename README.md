@@ -11,7 +11,7 @@
 
 
 ## 0302
-![apple screenshot](appledev.jpeg)
+![appledev](appledev.jpeg)
 <p> 
 I have go through this both website and I don't want to criticize any of them. But here I'm talking about apple developer technologies. I have found an ocean in it, I mean there is a number of things which can be done like access to beta builds of iOS, macOS, watchOS, and tvOS and code-level support that gives developers access to an Apple developer who can help troubleshoot and streamline code. I like the most about this website is that it is very neat and perfectly organized for the user. As we can see, top bar of the site is pretty balanced and they have attached all the links in the alphabetical order which is absolutely easy for the user to explore what they need.
 I found very interesting feature in it named business chat. It is a new way to communicate with Apple and other businesses using Messages.Do a chat to get answers to your questions, schedule appointments, resolve issues, make purchases, and more.
