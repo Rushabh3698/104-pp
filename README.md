@@ -21,3 +21,28 @@ Increased efficiency: similar to other text-based chats, Apple Business Chat wil
 One of the key factor business chat is that it has joined the fray as the most direct engagement channel that offers “an interactive, personal way to connect with customers while respecting their privacy.
 Reducing phone and email: given all the functionalities now encompassed by iMessage (e.g. Apple Pay), it is more likely customers can handle all support issues within the app. Over time, this will shift volume to iMessage and encourage users to contact companies through Apple Business Chat.
 </p>
+
+## 0401
+
+<p>
+I have gone through this application and I have found many interesting things about it which integrates weight readings, daily activity levels, sleep, mindfulness check-ins, meals and meal quality, blood sugar, blood pressure, and more. The copy writing UX is one of the best feature in this app, user can easily respond others by just clicking appropriate options on the screen which can be impacted positive to the conversation. Another best feature is that they represents a body graph which includes everything related to user. This kind of UI in mobile can improve many things in human health issues. we need more implementation in mobile platform like this.
+</p>
+
+## 0402
+
+
+
+
+
+## 0501
+<p>
+ - The full-form MVC is (Model-View-Controller) where model works directly with the database. It is the model where all the application's data are stored. And view presents the model’s data to the customer/user on which they can perform some actions. Atlast controller is the most important part of the architecture. It is the decision-maker and exists between the view and the model.
+  MVC allows developers to work on the components simultaneously. For example, a developer will be able to work on the view while another one will be able to work on the controller at the same time. This completes the project quicker than expected. However, the framework navigation can be complex because it introduces new layers of abstraction and hence it can be hard to understand. 
+ - The full-form of MVP is (Model-View-presenter) where model continues to contain the data in a set of classes that describes the business logic and data. It also defines how the data can be changed and manipulated.And the view continues to implement the fragment classes but the area of what the view control changes. Atlast the presenter is handling UI updates based on changes to the data model, and also processes user inputs.
+  MVP keeps the business logic and the persistence logic separate out of the Activity and Fragment classes. This enables the concerns are separated in a better way. However, an additional expectation to absorb information and experience and information has any kind of effect in the correct usage.
+ - The full-form of MVVM is (Model-View-View-Model) The model is the actual data and/or information that the developers and designers deal with. It is referred to as the domain object. And the view is only thing the end user actually interacts with. The view takes certain liberties to make the data more presentable. The ViewModel is ideally a model for the View of the app. The ViewModel is a key component of the triad as it introduces Presentation Separation.
+ - The app UI can be redesigned without touching the code, but the view has to be implemented entirely in XAML. Hence, a new version of the view should work with the existing view model but communication between various MVVM components and data binding can be exhausting.
+ 
+ In conclusion both MVP and MVVM are derived from MVC. The main difference between MVC and its derivatives is the dependency that each layer has on other layers, as well as how tightly bound they are to each other.
+ 
+  
