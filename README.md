@@ -48,5 +48,11 @@ I have chose split 2 because it uses that given line. However the other split on
  - The app UI can be redesigned without touching the code, but the view has to be implemented entirely in XAML. Hence, a new version of the view should work with the existing view model but communication between various MVVM components and data binding can be exhausting.
  
  In conclusion both MVP and MVVM are derived from MVC. The main difference between MVC and its derivatives is the dependency that each layer has on other layers, as well as how tightly bound they are to each other.
+ </p>
+ 
+ ## 0502
+ <p>
+ Well I have done lot of programming projects which includes global variables but here I would like to talk about GameRootAbstr.java. In this project there was lot of avoidable global values were used. Infact, I can take out static from them and make them private. However it contains only single abstract class which I can directly put into specific place.
+ </p>
  
   
