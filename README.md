@@ -33,9 +33,9 @@ I have gone through this application and I have found many interesting things ab
 </p>
 
 ## 0402
-
-
-
+<p>
+I have chose split 2 because it uses that given line. However the other split one depends on opening a file and also it has capability to reuse in input from the console. The primary advantage is that we can reuse itand also it becomes easier to decouple and for the components to be orthogonal.
+</p>
 
 
 ## 0501
