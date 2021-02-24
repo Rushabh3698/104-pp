@@ -7,7 +7,14 @@
 <p> Well as I mentioned above there were several difficulties which I had overcome but one of the I would like to talk about "comments" at such steps of coding because I always put less efforts to do comments which is not good but sometimes I'm out of words and a bit lazy to do at every step. But after I get know about that comments can do work like cherry on the cake means it makes your work more accurate. I try to put more efforts on it beacuse that increases readability of mine. Another point where I had improved was code checker, in the beggings sometimes I become overconfident and ignore to check the code in validator because I was assuming in my head that how can be that is wrong but after stumbling in that I'm aware and giving my best. Lastly, I'm talking about the thing in which I have improved the most is I was trying to mug-up codes before I write which turns out into headache after all I overcome this by understand every concept and taking help from my friend about this particular concern. </p>
 
 ## 0201
-<p> Well i have used several apps but here i would like to talk about Instagram because algorithm of instagram is designed to show you the content you’re most interested in. However, human behavior threw a wrench in the plan. The ease of scrolling Instagram makes it easy to forget to engage in accounts you’ve selected to follow. It includes interaction, engagement, searches and many more. In this social world people love to explore and surf on any platform where they get new information or the content they are interested in so for me instagram has the best algorithm because it connects the youth of the world by giving or taking knowledge through videos and posts
+<p> Well i have used several apps but here i would like to talk about Instagram because algorithm of instagram is designed to show you the content you’re most interested in. However, human behavior threw a wrench in the plan. The ease of scrolling Instagram makes it easy to forget to engage in accounts you’ve selected to follow. It includes interaction, engagement, searches and many more. In this social world people love to explore and surf on any platform where they get new information or the content they are interested in so for me instagram has the best algorithm because it connects the youth of the world by giving or taking knowledge through videos and posts.
+ </p>
+ 
+## 0202
+<p>
+ For the buttons I have would have changed the variable names in identifiers.
+ (restartButton, undoButton and more). It will be more effective to start a variable with button in use. It would be helpful for the button by just typing "button_" so after this we have numerous options which are created. 
+ </p>
 
 ## 0301
 ![imessages](imessages.jpeg)
