@@ -62,4 +62,14 @@ I have chose split 2 because it uses that given line. However the other split on
  Well I have done lot of programming projects which includes global variables but here I would like to talk about GameRootAbstr.java. In this project there was lot of avoidable global values were used. Infact, I can take out static from them and make them private. However it contains only single abstract class which I can directly put into specific place.
  </p>
  
+ ## 0801
+ <p>
+ MVI stands for Model-View-Intent. The unidirectional and cyclical nature of the Cycle.
+ MVI works in a very different way compared to its other three pattern, MVC, MVP or MVVM. and models in MVI should be fixed to make sure that a unidirectional data flow between  them and the other layers in the architecture.
+ Unidirectional data flow makes the logic of our app more predictable and easier to understand where as
+ </p>
+ 
+ ## 0802
+ <p></p>
+ 
   
