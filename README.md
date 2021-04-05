@@ -78,7 +78,31 @@ Well, here I would I like to talk about app named whatsapp because I regularlly 
 </p>
  
  ## 0901
+ <p>
+1) PayTM - Chosen App
+ Paytm is an multinational technology company that specializes in digital wallet, e-commerce, payment system and the benefits of its notification are:
+ -It notifies when someone scan your QR and also it has all-in-One QR. Accept All Payment modes through QR.
+ -Paytm sends automated notifications for the event of post transaction for your customers.
+ -These notification ensures that the name of the merchant, transaction amount, date / time of debit is conveyed to the customer.
+ -One of the interesting notification that it Gets an Instant voice notifications for payments in user's device.
+ However we can't use this app offline.
+ 
+ 2) Facebook - chosen App
+ Many mobile apps have a lot of potential users who have downloaded the app but don’t use it. Push notifications are a good way to turn these inactive users into active users and facebook is one the best app which notify frequently.
+ - It notifies when someone sends you a friend request as well as it shows if someone has messaged you in your notification bar.
+ - It notifies when someone like or comment on your post which is very helpful for the both to interact with each other.
+ - They are one of the most effective ways to communicate important events, invites from friends or actions people need to take. You use these notifications to send messages to people who have authorized your app.
+ </p>
+ 
  
  ## 0902
+ 
+ ## 1102
+ <p>
+ Well, after using some coding apps like VScode, W3schools and many more, then I get to know about several shortcut keys for the particular functions.
+ Literally the most basic thing I get to know about was "F2" key which is use for renaming the particular thing.
+ And the other was "CTRL+F" which is use to search for given word.
+ These kind of several basic shortcuts has boosted my coding speed and I have learned a various new things.
+ </p>
  
   
