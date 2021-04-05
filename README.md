@@ -95,7 +95,14 @@ Well, here I would I like to talk about app named whatsapp because I regularlly 
  </p>
  
  
- ## 0902
+ ## 0903
+ <p>
+ - I have used most of all steps in my work.
+ - So many times I have seen the description of a problem, immediately made some random assumptions, proceeded to make changes, checked in the code, but still it doesn't work for me. In fact sometimes I make another bug while solving the other one. However it doesn't happen everytime sometimes I do coding deliberately which results into great success for me so, There’s nothing wrong to spend hours in bugs. I think it gives more happiness when you solve errors by putting efforts on your codings instead of finding it on browsers.
+ - Sometimes I Failed to Read Error Messages because exception messages on the front-end are usually displayed on the UI or developer console. Sometimes these messages are visible in the backend through the terminal or via log files. So, begginers like me are fail to take the time to read them. 
+ - Well, most of the time the error message does its best to tell you what went wrong. At the very least, it will tell you what line number it got to in your program before crashing, which gives you a great clue for places to start hunting for bugs. I have experienced it.
+ </p>
+ 
  
  ## 1102
  <p>
