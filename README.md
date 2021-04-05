@@ -66,11 +66,16 @@ I have chose split 2 because it uses that given line. However the other split on
  <p>
  MVI stands for Model-View-Intent. The unidirectional and cyclical nature of the Cycle.
  MVI works in a very different way compared to its other three pattern, MVC, MVP or MVVM. and models in MVI should be fixed to make sure that a unidirectional data flow between  them and the other layers in the architecture.
- Unidirectional data flow makes the logic of our app more predictable and easier to understand where as
+ Unidirectional data flow makes the logic of our app more predictable and easier to understand where as MVP is kind of more resuable and it is more difficult to comprehend for begginers.
  </p>
  
  ## 0802
- <p></p>
+ <p>
+Well, here I would I like to talk about app named whatsapp because I regularlly use this app.
+- Firstly, it offers unlimited real time messaging with end to end encryption. In fact there is no cost for it and you can text to anyone and anywhere in the world , I think these are the most important resources for any chatting app.
+- The creators of WhatsApp have also made it a point from the very beginning to avoid any kind of ads. For this reason, when using WhatsApp you will never come across any annoying ads as no kind of advertisement is involved. This differs it from other applications and makes it even a greater pleasure to use WhatsApp.
+- Location, images, status can be shared with friends, In order to discuss on project updates, new tasks, conference timings etc, WhatsApp can be the right choice. A team built right from the senior manager to the level 1 employee can have good communication through the app. It can also be considered as the good platform to share the ideas, team building tasks, and thoughts etc among the employees to take your business to next level, I think these kind of features made the app performant.
+</p>
  
  ## 0901
  
