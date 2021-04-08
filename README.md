@@ -113,6 +113,20 @@ Well, here I would I like to talk about app named whatsapp because I regularlly 
  Every project is an opportunity for me to achieve perfection, but at some point I find that one value or that set of clicks brings my day crashing down. I’m used to it now. It’s all part of the process of being a developer. For me assertions will be on top because whenever I add assertions to the code, assumptions can be checked and warnings issues when they are incorrect. Like if I develop a Customer input form. A precondition of the Save command may be that the form is in edit mode. On completion of a successful save, the form may be assumed to be in view mode and the customer object should be marked as unchanged. With assertions, I can guarantee that these conditions are always true. Experience has shown that writing assertions while programming is one of the quickest and most effective ways to detect and correct bugs. As an added benefit, assertions serve to document the inner workings of your program, enhancing maintainability.
  </p>
  
+ ## 1101
+ RESTful API - Apple
+ The App Store Connect API returns responses from resources that are consistent JSON data and contain links to additional related resources.for example, to find beta testers within specific beta groups in TestFlight. Apply filtering to requests on specific resources to refine the response.
+ 1) Users and Roles-
+ It integrate your Apple Developer Program team membership with your organization’s internal directory to automate tasks associated with team management. For example, you can automatically revoke access to App Store Connect when a user leaves your organization.
+ 2) App Metadata-
+ It Builds and maintain your App Store product page by uploading and managing assets, such as your app description, screenshots, and app previews.
+ 3) Provisioning-
+ Streamline app development by managing bundle IDs, signing certificates, development devices, and provisioning profiles.
+ 4) App Management-
+ Create new versions of your app, set up pre-orders, manage phased releases for version updates, and submit your app to App Review.
+ 5) Sales and Trends-
+ Download reports to view the number of first-time downloads, sales, proceeds, pre-orders, subscriptions activity, and more for your apps on all Apple platforms.
+ </p>
  ## 1102
  <p>
  Well, after using some coding apps like VScode, W3schools and many more, then I get to know about several shortcut keys for the particular functions.
