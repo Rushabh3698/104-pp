@@ -103,6 +103,15 @@ Well, here I would I like to talk about app named whatsapp because I regularlly 
  - Well, most of the time the error message does its best to tell you what went wrong. At the very least, it will tell you what line number it got to in your program before crashing, which gives you a great clue for places to start hunting for bugs. I have experienced it.
  </p>
  
+ ## 1001
+ <p>
+ Honestly yes there are lot of times, I have done some part of the coding coincidentally. I just go with the flow until I feel wrong. Fortunately, it works sometimes. I had done this in school computer labs.In many areas, when I don't know how to do something, I just go by trial and error. Try something; if it works, great, if not, I try something else.By this method I learn new things most of the time. However, The takeaway is that as a new programmer I really have to be able to explain what my code does. If I have to learn to read code, not just write it. I think we should get out of our comfort zone Try a new language, or feature of a language as often as possible. This is the surprising way to focus and get new things learn with results too.
+ </p>
+ 
+ ## 1002
+ <p>
+ Every project is an opportunity for me to achieve perfection, but at some point I find that one value or that set of clicks brings my day crashing down. I’m used to it now. It’s all part of the process of being a developer. For me assertions will be on top because whenever I add assertions to the code, assumptions can be checked and warnings issues when they are incorrect. Like if I develop a Customer input form. A precondition of the Save command may be that the form is in edit mode. On completion of a successful save, the form may be assumed to be in view mode and the customer object should be marked as unchanged. With assertions, I can guarantee that these conditions are always true. Experience has shown that writing assertions while programming is one of the quickest and most effective ways to detect and correct bugs. As an added benefit, assertions serve to document the inner workings of your program, enhancing maintainability.
+ </p>
  
  ## 1102
  <p>
