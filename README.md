@@ -127,6 +127,7 @@ Well, here I would I like to talk about app named whatsapp because I regularlly 
  5) Sales and Trends-
  Download reports to view the number of first-time downloads, sales, proceeds, pre-orders, subscriptions activity, and more for your apps on all Apple platforms.
  </p>
+ 
  ## 1102
  <p>
  Well, after using some coding apps like VScode, W3schools and many more, then I get to know about several shortcut keys for the particular functions.
